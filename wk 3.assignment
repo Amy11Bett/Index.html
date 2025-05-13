@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CSS Styling Example</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header id="main-header">
+    <h1>Welcome to My Styled Page</h1>
+  </header>
+
+  <section class="intro">
+    <p>This page demonstrates basic CSS styling using classes, IDs, and element selectors. Enjoy the colors and layout!</p>
+  </section>
+
+  <img src="https://via.placeholder.com/200" alt="Placeholder Image" class="styled-image">
+
+  <footer>
+    <p>&copy; 2025 My Website</p>
+  </footer>
+
+</body>
+</html>
